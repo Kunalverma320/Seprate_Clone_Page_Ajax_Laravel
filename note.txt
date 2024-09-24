@@ -1,0 +1,7 @@
+1.Migration details
+* php artisan make:migration create_categories_table
+
+2.php artisan storage:link
+
+3.for excel import
+https://medium.com/@1415sandalanka/laravel-import-export-excel-and-csv-file-75d5054d08c1
